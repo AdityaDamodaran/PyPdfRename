@@ -2,7 +2,7 @@
 
 ### Things not looking up in the stock market?
 
-### Is life starting to feel too monotonous, and are you looking for the true meaning of life?
+### Is life starting to feel too monotonous, and are you looking for its true meaning?
 
 PyPdfRename can help with the first issue.
 
