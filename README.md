@@ -6,4 +6,4 @@
 
 PyPdfRename can help with the first issue.
 
-Pass a directory path to this script as an argument, and it will attempt to guess what the pdf files in this directory are about by reading their titles, and will then offer to rename them for you.
+Pass a directory path to this script as an argument, and it will attempt to guess what the pdf files in this directory are about by reading their titles, before offering to rename them for you.
